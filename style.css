@@ -540,16 +540,16 @@ Right Side
 MEDIA QUERY
 ****************/
 
-@media screen and (max-width:1200px) {
+@media screen and (min-width:900px) {
     .container{
-      width: 94%;
+      width: 93%;
       grid-template-columns: 7rem auto 14rem;
     }
     aside .sidebar h3{
       display: none;
     }
     aside .sidebar a{
-      width: 5.6rem;
+      width: 5.0rem;
     }
     aside .sidebar a:last-child{
       position: relative;
