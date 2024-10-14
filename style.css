@@ -540,7 +540,7 @@ Right Side
 MEDIA QUERY
 ****************/
 
-@media screen and (max-width:1200px) {
+@media screen and (max-width:1000px) {
     .container{
       width: 94%;
       grid-template-columns: 7rem auto 14rem;
