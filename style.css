@@ -542,8 +542,8 @@ MEDIA QUERY
 
 @media screen and (min-width:900px) {
     .container{
-      width: 85%;
-      grid-template-columns: 7rem auto 10rem;
+      width: 93%;
+      grid-template-columns: 7rem auto 14rem;
     }
     aside .sidebar h3{
       display: none;
